@@ -11,8 +11,8 @@ The **Bank Management System** is a Java-based application designed to manage es
 - **Extensible:** Can be expanded to include loan management, transaction history, and reporting.
 
 ## Project Structure
-├── bank.java # Main class for handling user operations
-├── bankManagement.java # Core banking logic and process management
+├── bank.java # Main class for handling user operations\n
+├── bankManagement.java # Core banking logic and process management\n
 └── connection.java # Database connection configuration
 
 ## Technologies Used
