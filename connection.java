@@ -14,7 +14,7 @@ public class connection {
 		try {
 			Class.forName("com.mysql.cj.jdbc.Driver");
 			String url="jdbc:mysql://localhost:3306/bank";
-			String pass="Ankit@561156";
+			String pass="root";
 			String user="root";
 			con=DriverManager.getConnection(url,user,pass);
 			System.out.println("Connection is Succesfully Established");
@@ -34,3 +34,4 @@ public class connection {
 //		getConnection();
 //	}
 }
+
